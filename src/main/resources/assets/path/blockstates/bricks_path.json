@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "path:block/bricks_path" }
+  }
+}
